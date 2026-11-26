@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Logo" width="160">
 
-# Hi, ich bin rspanier 👋
+# Hi, ich bin Raphael 👋
 
 **Entwickler · Fehlersucher · Ideen-Bauer**
 
